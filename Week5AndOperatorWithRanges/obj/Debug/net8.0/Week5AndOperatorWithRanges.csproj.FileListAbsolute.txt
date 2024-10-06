@@ -1,0 +1,14 @@
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\bin\Debug\net8.0\Week5AndOperatorWithRanges.exe
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\bin\Debug\net8.0\Week5AndOperatorWithRanges.deps.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\bin\Debug\net8.0\Week5AndOperatorWithRanges.runtimeconfig.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\bin\Debug\net8.0\Week5AndOperatorWithRanges.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\bin\Debug\net8.0\Week5AndOperatorWithRanges.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\obj\Debug\net8.0\Week5AndOperatorWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\obj\Debug\net8.0\Week5AndOperatorWithRanges.AssemblyInfoInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\obj\Debug\net8.0\Week5AndOperatorWithRanges.AssemblyInfo.cs
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\obj\Debug\net8.0\Week5AndOperatorWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\obj\Debug\net8.0\Week5AndOperatorWithRanges.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\obj\Debug\net8.0\refint\Week5AndOperatorWithRanges.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\obj\Debug\net8.0\Week5AndOperatorWithRanges.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\obj\Debug\net8.0\Week5AndOperatorWithRanges.genruntimeconfig.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week5AndOrLogicalOperators\Week5AndOperatorWithRanges\obj\Debug\net8.0\ref\Week5AndOperatorWithRanges.dll
